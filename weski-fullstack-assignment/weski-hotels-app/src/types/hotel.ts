@@ -18,3 +18,5 @@ export interface Hotel {
     AmountBeforeTax?: string;
   };
 }
+
+//same type like im weski-api/types, should be in external utils file that both files can use

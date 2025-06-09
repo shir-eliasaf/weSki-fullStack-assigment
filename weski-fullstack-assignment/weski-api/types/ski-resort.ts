@@ -12,5 +12,6 @@ interface HotelSearchQuery {
   };
 }
 
-export {Hotel, HotelSearchQuery };
+export { Hotel, HotelSearchQuery };
 
+//not using it but should
